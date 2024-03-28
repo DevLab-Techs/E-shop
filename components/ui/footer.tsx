@@ -41,7 +41,7 @@ const Footer = () => {
             <p>
               Made by{" "}
               <a
-                href="https://devlab-tech.com"
+                href="https://www.devlab-tech.com"
                 target="_blank"
                 className="text-violet-500"
               >
